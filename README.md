@@ -3,9 +3,6 @@
 ## Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-    - [Prerequisites](#prerequisites)
-    - [Send SMS](#send-sms)
 - [Frequently Asked Questions](#faq)
 
 ## Features
