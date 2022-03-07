@@ -1,4 +1,4 @@
-# Mocean Monday Automation App User Documentation
+# Mocean monday.com Automation App User Documentation
 
 ## Contents
 - [Features](#features)
@@ -30,7 +30,7 @@
 
 ![image](https://user-images.githubusercontent.com/24620178/153541789-9bef40e4-977f-4ade-bcb2-cb84c2c6211c.png)
 
-6. After you've successfully authenticated, you will be redirected back to `Monday.com` to customize your `Automation Recipe`
+6. After you've successfully authenticated, you will be redirected back to `monday.com` to customize your `Automation Recipe`
 
 ![image](https://user-images.githubusercontent.com/24620178/153558546-4ea76118-41c5-496e-a02a-89736fc285b6.png)
 
