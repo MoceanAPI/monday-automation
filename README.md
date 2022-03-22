@@ -1,4 +1,4 @@
-# Mocean Monday Automation App User Documentation
+# Mocean monday.com SMS Automation User Documentation
 
 ## Looking for other documentation ?
 - [MoceanAPI - SMS Broadcast Documentation](https://moceanapi.github.io/monday-dashboard/)
