@@ -6,9 +6,11 @@
 - [MoceanAPI - SMS Automation Documentation](https://moceanapi.github.io/monday-automation/)  (Current)
 - [SMS Sender ID Country List](https://moceanapi.github.io/monday/)
 
+
 ## Contents
 - [Features](#features)
 - [Installation](#installation)
+- [Non-Supported Trigger Methods](#non-supported-trigger-methods)
 - [Frequently Asked Questions](#faq)
 
 ## Features
@@ -46,6 +48,13 @@
 
 ![image](https://user-images.githubusercontent.com/24620178/153558811-685771d1-bc23-4ba7-bf78-4301173af29a.png)
 
+## Non-Supported Trigger Methods
+1. Sending SMS when an item is created
+    - The `new item` created does not have a `phone` field value upon creation.
+    - `Workaround` would be to set up an automation recipe: `When Column Changes, Send SMS to Phone from Your Business Name` and manually update the phone column after new item is created.
+2. Sending to `subitems` is not supported at the moment
+
+
 ## FAQ
 1. Can I get Test Credits ?
 
@@ -71,5 +80,5 @@ Mobile phone numbers need to be entered in international formatting with the cou
 
 Do raise a support ticket with our Support Team at support@moceanapi.com.
 
-## Feature Request
+## Feature Request / Get Help
 Do raise a support ticket with our Support Team at support@moceanapi.com.
