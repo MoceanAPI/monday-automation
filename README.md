@@ -11,6 +11,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Non-Supported Trigger Methods](#non-supported-trigger-methods)
+- [Custom Date Time format](#custom-date-time-format)
 - [Frequently Asked Questions](#faq)
 
 ## Features
@@ -53,6 +54,38 @@
     - The `new item` created does not have a `phone` field value upon creation.
     - `Workaround` would be to set up an automation recipe: `When Column Changes, Send SMS to Phone from Your Business Name` and manually update the phone column after new item is created.
 2. Sending to `subitems` is not supported at the moment
+
+## Custom Date Time format
+Sometimes you may want to display a different format for your date time column in your SMS, you can do it by specifying your desired format in the **Update API Credentials Page**
+### Date Formats
+- `YYYY`: 4-digit year `'2019'`
+- `YY`: 2-digit year `'19'`
+- `MMMM`: Full-length month `'June'`
+- `MMM`: 3 character month `'Jun'`
+- `MM`: Month of the year, zero-padded `'06'`
+- `M`: Month of the year `'6'`
+- `DD`: Day of the month, zero-padded `'01'`
+- `D`: Day of the month `'1'`
+- `Do`: Day of the month with numeric ordinal contraction `'1st'`
+
+### Time Format
+- `HH`: hour of day from 0-24, zero-padded, `'14'`
+- `H`: hour of day from 0-24, `'14'`
+- `hh`: hour of day on 12-hour clock, zero-padded, `'02'`
+- `h`: hour of the day on 12 hour clock, `'2'`
+- `mm`: minute, zero-padded, `'04'`
+- `m`: minute, `'4'`
+- `ss`: second, zero-padded
+- `s`: second
+- `A`: `'AM'` or `'PM'`
+- `a`: `'am'` or `'pm'`
+
+### Example
+Below is an example how you can combine both Date & Time format to create a customized date time format.
+|Value|Result|
+|---|---|
+|  `ddd, YYYY MMM DD, h:mm A` | Wed, 2022 Aug 10, 9:32 AM  |
+| `MMMM d, YYYY HH:mm`  |  August 3, 2022 09:32 |
 
 
 ## FAQ
