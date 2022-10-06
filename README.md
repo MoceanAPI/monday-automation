@@ -111,7 +111,7 @@ Mobile phone numbers need to be entered in international formatting with the cou
 
 **Did not find what you're looking for ?**
 
-Do raise a support ticket with our Support Team at support@moceanapi.com.
+Do raise a support ticket with our Support Team at [support@moceanapi.com](mailto:support@moceanapi.com).
 
 ## Feature Request / Get Help
-Do raise a support ticket with our Support Team at support@moceanapi.com.
+Do raise a support ticket with our Support Team at [support@moceanapi.com](mailto:support@moceanapi.com).
