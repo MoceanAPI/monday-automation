@@ -6,12 +6,12 @@
 - [MoceanAPI - SMS Automation Documentation](https://moceanapi.github.io/monday-automation/)  (Current)
 - [SMS Sender ID Country List](https://moceanapi.github.io/monday/)
 
-
 ## Contents
 - [Features](#features)
 - [Installation](#installation)
 - [Non-Supported Trigger Methods](#non-supported-trigger-methods)
 - [Custom Date Time format](#custom-date-time-format)
+- [Whitelist IP Address](#whitelist-ip-address)
 - [Frequently Asked Questions](#faq)
 
 ## Features
