@@ -87,6 +87,17 @@ Below is an example how you can combine both Date & Time format to create a cust
 |  `ddd, YYYY MMM DD, h:mm A` | Wed, 2022 Aug 10, 9:32 AM  |
 | `MMMM d, YYYY HH:mm`  |  August 3, 2022 09:32 |
 
+## Whitelist IP Address
+
+For added security, you should whitelist `192.168.4.1` IP address in your [MoceanAPI Dashboard](https://dashboard.moceanapi.com)
+
+To do so, follow these steps
+
+1. Go to [MoceanAPI Dashboard](https://dashboard.moceanapi.com/user/apisetting)
+2. Navigate to **API Account** 
+3. Key in **`192.168.4.1`** into **Allow IP** field
+
+![image](https://user-images.githubusercontent.com/24620178/200761674-1ccb6e6c-2d7b-499d-bef6-ee47a3e2a624.png)
 
 ## FAQ
 1. Can I get Test Credits ?
