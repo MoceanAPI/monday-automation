@@ -11,6 +11,7 @@
 - [Installation](#installation)
 - [Non-Supported Trigger Methods](#non-supported-trigger-methods)
 - [Custom Date Time format](#custom-date-time-format)
+- [Notifications and Updates in monday.com](#notifications-and-updates-in-monday-com)
 - [Whitelist IP Address](#whitelist-ip-address)
 - [Frequently Asked Questions](#faq)
 
@@ -37,7 +38,7 @@
 
 5. Enter your Mocean API Credentials and the sender
 
-![image](https://user-images.githubusercontent.com/24620178/153541789-9bef40e4-977f-4ade-bcb2-cb84c2c6211c.png)
+![image](https://user-images.githubusercontent.com/24620178/203029859-d9273a25-20c2-47b9-8724-7739d51bb407.png)
 
 6. After you've successfully authenticated, you will be redirected back to `Monday.com` to customize your `Automation Recipe`
 
@@ -54,6 +55,10 @@
     - The `new item` created does not have a `phone` field value upon creation.
     - `Workaround` would be to set up an automation recipe: `When Column Changes, Send SMS to Phone from Your Business Name` and manually update the phone column after new item is created.
 2. Sending to `subitems` is not supported at the moment
+
+## Notifications and Updates in monday.com
+If you'd like to disable receiving notifications and updates in monday.com whenever an automated SMS is triggered, you can configure it in the **Update API Credentials Page**
+![image](https://user-images.githubusercontent.com/24620178/203029535-98bc5e6d-572e-4ed5-8f45-66d5a2796989.png)
 
 ## Custom Date Time format
 Sometimes you may want to display a different format for your date time column in your SMS sent using Automation, you can do it by specifying your desired format in the **Update API Credentials Page**
@@ -118,7 +123,8 @@ There is no limit on numbers to be sent in one go.
 
 5. What format does my phone number need to be in?
 
-Mobile phone numbers need to be entered in international formatting with the country code and without spaces, plus signs or leading zeros.
+Mobile phone numbers need to be 
+ed in international formatting with the country code and without spaces, plus signs or leading zeros.
 
 **Did not find what you're looking for ?**
 
