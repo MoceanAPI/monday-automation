@@ -56,7 +56,7 @@
 2. Sending to `subitems` is not supported at the moment
 
 ## Custom Date Time format
-Sometimes you may want to display a different format for your date time column in your SMS, you can do it by specifying your desired format in the **Update API Credentials Page**
+Sometimes you may want to display a different format for your date time column in your SMS sent using Automation, you can do it by specifying your desired format in the **Update API Credentials Page**
 ### Date Formats
 - `YYYY`: 4-digit year `'2019'`
 - `YY`: 2-digit year `'19'`
