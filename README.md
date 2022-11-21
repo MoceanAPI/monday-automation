@@ -11,7 +11,7 @@
 - [Installation](#installation)
 - [Non-Supported Trigger Methods](#non-supported-trigger-methods)
 - [Custom Date Time format](#custom-date-time-format)
-- [Notifications and Updates in monday.com](#notifications-and-updates-in-monday-com)
+- [Notifications and Updates in monday.com](#notifications-and-updates-in-mondaycom)
 - [Whitelist IP Address](#whitelist-ip-address)
 - [Frequently Asked Questions](#faq)
 
