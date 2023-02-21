@@ -95,7 +95,16 @@ Below is an example how you can combine both Date & Time format to create a cust
 | `MMMM d, YYYY HH:mm`  |  August 3, 2022 09:32 |
 
 ## Country Setting
-TBA
+Sometimes your data might not include a country code for the phone number, you can specify the country setting and we will automatically convert the number to the equivalent of your chosen country code. 
+For eg: the number `0123456789` will be converted to `60123456789` for the country `Malaysia (MY)`
+
+![image](https://user-images.githubusercontent.com/24620178/220264383-5ccfeab6-0777-417e-a86c-9679a0c60a9d.png)
+
+**Configure this setting if you only send to one country and the phone number doesn't have a prepended country code**
+
+**We will always prioritize the country code we get from your monday.com item**
+
+![image](https://user-images.githubusercontent.com/24620178/220265401-b54eb38e-e7cd-4531-94f6-07dc7c755b71.png)
 
 ## Whitelist IP Address
 
