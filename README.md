@@ -12,6 +12,7 @@
 - [Installation](#installation)
 - [Non-Supported Trigger Methods](#non-supported-trigger-methods)
 - [Custom Date Time format](#custom-date-time-format)
+- [Country Setting](#country-setting)
 - [Notifications and Updates in monday.com](#notifications-and-updates-in-mondaycom)
 - [Whitelist IP Address](#whitelist-ip-address)
 - [Frequently Asked Questions](#faq)
@@ -92,6 +93,9 @@ Below is an example how you can combine both Date & Time format to create a cust
 |---|---|
 |  `ddd, YYYY MMM DD, h:mm A` | Wed, 2022 Aug 10, 9:32 AM  |
 | `MMMM d, YYYY HH:mm`  |  August 3, 2022 09:32 |
+
+## Country Setting
+TBA
 
 ## Whitelist IP Address
 
