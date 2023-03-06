@@ -60,6 +60,13 @@
 
 ## Notifications and Updates in monday.com
 If you'd like to disable receiving notifications and updates in monday.com whenever an automated SMS is triggered, you can configure it in the **Update API Credentials Page**
+
+1. First navigate to `MoceanAPI - Send SMS app` or `MoceanAPI - SMS Broadcast app`.
+
+![image](https://user-images.githubusercontent.com/24620178/223055251-72aa588b-eac3-4b85-9a1d-e792a55fb1d4.png)
+
+2. Then click on the `Update API Credentials Link`. You can then configure whether you'd like to receive notifications in monday.com for every `automated` SMS sent
+
 ![image](https://user-images.githubusercontent.com/24620178/203029535-98bc5e6d-572e-4ed5-8f45-66d5a2796989.png)
 
 ## Custom Date Time format
