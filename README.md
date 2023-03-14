@@ -18,9 +18,14 @@
 - [Frequently Asked Questions](#faq)
 
 ## Features
+- Automatically send SMS when new Item is created
 - Automatically send SMS on specific date
 - Automatically send SMS when the status value changed
 - Automatically send SMS when the column value changed
+- Automatically send Voice Call (Text to speech) when new Item is created
+- Automatically send Voice Call (Text to speech) on specific date
+- Automatically send Voice Call (Text to speech) when the status value changed
+- Automatically send Voice Call (Text to speech) when the column value changed
 
 ## Installation
 
