@@ -11,9 +11,10 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Non-Supported Trigger Methods](#non-supported-trigger-methods)
+- [Notifications and Updates in monday.com](#notifications-and-updates-in-mondaycom)
 - [Custom Date Time format](#custom-date-time-format)
 - [Country Setting](#country-setting)
-- [Notifications and Updates in monday.com](#notifications-and-updates-in-mondaycom)
+- [Voice Call](#voice-call)
 - [Whitelist IP Address](#whitelist-ip-address)
 - [Frequently Asked Questions](#faq)
 
@@ -76,6 +77,7 @@ If you'd like to disable receiving notifications and updates in monday.com whene
 
 ## Custom Date Time format
 Sometimes you may want to display a different format for your date time column in your SMS sent using Automation, you can do it by specifying your desired format in the **Update API Credentials Page**
+
 ### Date Formats
 - `YYYY`: 4-digit year `'2019'`
 - `YY`: 2-digit year `'19'`
@@ -117,6 +119,38 @@ For eg: the number `0123456789` will be converted to `60123456789` for the count
 **We will always prioritize the country code we get from your monday.com item**
 
 ![image](https://user-images.githubusercontent.com/24620178/220265401-b54eb38e-e7cd-4531-94f6-07dc7c755b71.png)
+
+## Voice Call
+### Virtual Number
+By default, the `Number` we use to call your recipient is: `63001` which may identify as `Spam  number` when your recipient receive the call.
+To avoid this and get better answering chance, we suggest you to buy a virtual number from us [here](https://moceanapi.github.io/monday-two-way/#buy-a-virtual-number) 
+After you've bought your virtual number, you can select the virtual number in your `automation recipe`
+
+![image](https://user-images.githubusercontent.com/24620178/226274870-c6ffa97a-6db0-446b-85b1-be775199782f.png)
+
+### Voice Recording
+For the `Recording Link` input,
+You will need to supply a `Direct Link` to  the recording like below.
+
+![image](https://user-images.githubusercontent.com/24620178/226282397-4126e678-a1f1-4a66-9339-478e0640a458.png)
+
+In this example, we will use [AnonFiles](https://anonfiles.com/) to help you get started quickly without registering for an account.
+
+1. Visit [AnonFiles](https://anonfiles.com/)
+2. Click on **Upload File**
+3. Upload your recording
+4. Open the link in your browser 
+
+![image](https://user-images.githubusercontent.com/24620178/226294797-5206c2f8-f44b-471b-bb7a-5bf9b630fef4.png)
+
+5. Right click on **Download (15.66 KB)**
+
+![image](https://user-images.githubusercontent.com/24620178/226295342-b3f6b35e-3312-4bf7-9899-c56a7e3ae771.png)
+
+6. Copy the link address
+7. Paste copied link into your **Automation Recipe**
+
+![image](https://user-images.githubusercontent.com/24620178/226295513-e8d73c68-368c-437f-b67d-3a69d4d9b527.png)
 
 ## Whitelist IP Address
 
