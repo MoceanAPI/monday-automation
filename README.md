@@ -122,7 +122,7 @@ For eg: the number `0123456789` will be converted to `60123456789` for the count
 
 ## Voice Call
 ### Virtual Number
-By default, the `Number` we use to call your recipient is: `63001` which may identify as `Spam  number` when your recipient receive the call.
+By default, the `Number` we use to call your recipient is: `63001` which may be identified as `Spam  number` when your recipient receive the call.
 To avoid this and get better answering chance, we suggest you to buy a virtual number from us [here](https://moceanapi.github.io/monday-two-way/#buy-a-virtual-number) 
 After you've bought your virtual number, you can select the virtual number in your `automation recipe`
 
