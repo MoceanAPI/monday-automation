@@ -155,6 +155,8 @@ Below, we will show you steps for 2 platform (Dropbox, Github) which you can upl
 
 So the final URL you should paste in the **Recording Link** in your automation recipe is: https://dl.dropboxusercontent.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3
 
+![image](https://user-images.githubusercontent.com/24620178/226572627-ea65c9fb-0f6d-4f14-b7b1-2bfcba45605c.png)
+
 ![image](https://user-images.githubusercontent.com/24620178/226548308-c2e3a125-0474-402b-97aa-ca1442ddc564.png)
 
 #### Upload voice recording to Github
