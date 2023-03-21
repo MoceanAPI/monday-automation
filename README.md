@@ -149,7 +149,7 @@ Below, we will show you steps for 2 platform (Dropbox, Github) which you can upl
 
 `https://www.dropbox.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3?dl=0`
 
-3. Replace **www.dropbox.com** with **dl.dropboxusercontent.com** and remove the `dl=0`
+3. Replace `www.dropbox.com` with `dl.dropboxusercontent.com` and remove the `dl=0`
 
 `https://dl.dropboxusercontent.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3`
 
@@ -176,7 +176,7 @@ So the final URL you should paste in the **Recording Link** in your automation r
 ![image](https://user-images.githubusercontent.com/24620178/226539871-a5d3dc63-accc-48b5-a6ab-ffff722ef0fe.png)
 
 8. Right click on **View Raw** and copy the link
-9. Paste the link into your automation recipe Recording Link
+9. Paste the link in **Recording Link** in your automation recipe 
 
 ![image](https://user-images.githubusercontent.com/24620178/226540088-efea09cb-f5ae-45be-9f54-90028ce482ef.png)
 
