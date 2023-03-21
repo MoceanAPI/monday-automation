@@ -15,6 +15,10 @@
 - [Custom Date Time format](#custom-date-time-format)
 - [Country Setting](#country-setting)
 - [Voice Call](#voice-call)
+    - [Virtual Number](#virtual_number) 
+    - [Voice Recording](#voice-recording)
+        - [Upload voice recording to Dropbox](#upload-voice-recording-to-dropbox)
+        - [Upload voice recording to Github](#upload-voice-recording-to-github)
 - [Whitelist IP Address](#whitelist-ip-address)
 - [Frequently Asked Questions](#faq)
 
@@ -130,10 +134,51 @@ After you've bought your virtual number, you can select the virtual number in yo
 ![image](https://user-images.githubusercontent.com/24620178/226274870-c6ffa97a-6db0-446b-85b1-be775199782f.png)
 
 ### Voice Recording
-For the `Recording Link` input,
-You will need to supply a `Direct Link` to  the recording like below.
+If you've decided to send a **Voice Recording** instead of a **Text To Speech**, you may come across an automation recipe that supports this.
+
+For the `Recording Link` input, you will need to supply a `Direct Link` to  the recording like below.
 
 ![image](https://user-images.githubusercontent.com/24620178/226282397-4126e678-a1f1-4a66-9339-478e0640a458.png)
+
+Below, we will show you steps for 2 platform (Dropbox, Github) which you can upload your voice recording for free.
+
+#### Upload voice recording to Dropbox
+
+1. Create an account in Dropbox
+2. Upload your audio file and copy the link to your audio file
+3. Visit this website: https://www.joelgrayson.com/dropbox-download-link-generator
+4. Paste the copied link and press **Create Download Link**
+
+![image](https://user-images.githubusercontent.com/24620178/226548192-518b2ed6-50fa-4580-afe2-8d9438e9246c.png)
+
+6. The **Direct Link** will be generated for you. 
+7. Copy the **Direct Link** and paste it into your automation recipe **Recording Link** without the `?dl=0`
+So the final URL you should paste is: https://dl.dropboxusercontent.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3
+
+![image](https://user-images.githubusercontent.com/24620178/226548308-c2e3a125-0474-402b-97aa-ca1442ddc564.png)
+
+#### Upload voice recording to Github
+
+**Important** Files uploaded to public repository are accessible by everyone. If you want to limit access, we suggest you to go with **Dropbox**
+
+**Public Repository**
+1. Sign up for an account in Github
+2. On your left navigation panel, click on **New** to create a new repository
+3. Give your repository a name. Eg: **Audio Files**
+4. Scroll to the bottom and click on **Create Repository**
+5. Upload your audio file
+
+![image](https://user-images.githubusercontent.com/24620178/226539637-43710efb-d98b-4ccc-ac4b-d2ee060ad9d3.png)
+
+6. Click on **Commit Changes**
+7. Click on the newly uploaded file
+
+![image](https://user-images.githubusercontent.com/24620178/226539871-a5d3dc63-accc-48b5-a6ab-ffff722ef0fe.png)
+
+8. Right click on **View Raw** and copy the link
+9. Paste the link into your automation recipe Recording Link
+
+![image](https://user-images.githubusercontent.com/24620178/226540088-efea09cb-f5ae-45be-9f54-90028ce482ef.png)
 
 ## Whitelist IP Address
 
