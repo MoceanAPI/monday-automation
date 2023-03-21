@@ -135,24 +135,6 @@ You will need to supply a `Direct Link` to  the recording like below.
 
 ![image](https://user-images.githubusercontent.com/24620178/226282397-4126e678-a1f1-4a66-9339-478e0640a458.png)
 
-In this example, we will use [AnonFiles](https://anonfiles.com/) to help you get started quickly without registering for an account.
-
-1. Visit [AnonFiles](https://anonfiles.com/)
-2. Click on **Upload File**
-3. Upload your recording
-4. Open the link in your browser 
-
-![image](https://user-images.githubusercontent.com/24620178/226294797-5206c2f8-f44b-471b-bb7a-5bf9b630fef4.png)
-
-5. Right click on **Download (15.66 KB)**
-
-![image](https://user-images.githubusercontent.com/24620178/226295342-b3f6b35e-3312-4bf7-9899-c56a7e3ae771.png)
-
-6. Copy the link address
-7. Paste copied link into your **Automation Recipe**
-
-![image](https://user-images.githubusercontent.com/24620178/226295513-e8d73c68-368c-437f-b67d-3a69d4d9b527.png)
-
 ## Whitelist IP Address
 
 For added security, you should whitelist `192.168.4.1` IP address in your [MoceanAPI Dashboard](https://dashboard.moceanapi.com)
