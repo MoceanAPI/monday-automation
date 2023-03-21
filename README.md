@@ -134,7 +134,7 @@ After you've bought your virtual number, you can select the virtual number in yo
 ![image](https://user-images.githubusercontent.com/24620178/226274870-c6ffa97a-6db0-446b-85b1-be775199782f.png)
 
 ### Voice Recording
-If you've decided to send a **Voice Recording** instead of a **Text To Speech**, you may come across an automation recipe that supports this.
+If you've decided to send a **Voice Recording** instead of a **Text To Speech**, we have automation recipe that supports this. You will need to input the `Recording Link`
 
 For the `Recording Link` input, you will need to supply a `Direct Link` to  the recording like below.
 
