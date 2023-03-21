@@ -151,14 +151,14 @@ Below, we will show you steps for 2 platform (Dropbox, Github) which you can upl
 
 3. Visit this website: https://www.joelgrayson.com/dropbox-download-link-generator
 4. Paste the copied link and press **Create Download Link**
-5. The **Direct Link** generated will be similar as below
-
-`https://dl.dropboxusercontent.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3?dl=0`
 
 ![image](https://user-images.githubusercontent.com/24620178/226548192-518b2ed6-50fa-4580-afe2-8d9438e9246c.png)
 
-6. The **Direct Link** will be generated for you. 
-7. Copy the **Direct Link** and paste it into your automation recipe **Recording Link** without the `?dl=0`
+5. The **Direct Link** will be generated for you. 
+
+`https://dl.dropboxusercontent.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3?dl=0`
+
+6. Copy the **Direct Link** and paste it into your automation recipe **Recording Link** without the `?dl=0`
 So the final URL you should paste is: https://dl.dropboxusercontent.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3
 
 ![image](https://user-images.githubusercontent.com/24620178/226548308-c2e3a125-0474-402b-97aa-ca1442ddc564.png)
