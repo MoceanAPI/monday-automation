@@ -144,7 +144,7 @@ Below, we will show you steps for 2 platform (Dropbox, Github) which you can upl
 
 #### Upload voice recording to Dropbox
 
-1. Create an account in [Dropbox](https://dropbox.com){:target="_blank"}
+1. Create an account in [Dropbox](https://dropbox.com)
 2. Upload your audio file and copy the link to your audio file
 
 `https://www.dropbox.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3?dl=0`
