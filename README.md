@@ -144,7 +144,7 @@ Below, we will show you steps for 2 platform (Dropbox, Github) which you can upl
 
 #### Upload voice recording to Dropbox
 
-1. Create an account in Dropbox
+1. Create an account in [Dropbox](https://dropbox.com)
 2. Upload your audio file and copy the link to your audio file
 
 `https://www.dropbox.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3?dl=0`
@@ -153,7 +153,7 @@ Below, we will show you steps for 2 platform (Dropbox, Github) which you can upl
 
 `https://dl.dropboxusercontent.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3`
 
-So the final URL you should paste in your automation recipe is: https://dl.dropboxusercontent.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3
+So the final URL you should paste in the **Recording Link** in your automation recipe is: https://dl.dropboxusercontent.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3
 
 ![image](https://user-images.githubusercontent.com/24620178/226548308-c2e3a125-0474-402b-97aa-ca1442ddc564.png)
 
