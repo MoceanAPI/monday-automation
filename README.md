@@ -162,8 +162,8 @@ So the final URL you should paste in the **Recording Link** in your automation r
 **Important** Files uploaded to public repository are accessible by everyone. If you want to limit access, we suggest you to go with **Dropbox**
 
 **Public Repository**
-1. Sign up for an account in Github
-2. On your left navigation panel, click on **New** to create a new repository
+1. Sign up for an account in [Github](https://github.com/signup)
+2. On your left navigation panel, click on [**New**](https://github.com/new) to create a new repository
 3. Give your repository a name. Eg: **Audio Files**
 4. Scroll to the bottom and click on **Create Repository**
 5. Upload your audio file
