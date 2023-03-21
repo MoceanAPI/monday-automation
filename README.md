@@ -146,8 +146,14 @@ Below, we will show you steps for 2 platform (Dropbox, Github) which you can upl
 
 1. Create an account in Dropbox
 2. Upload your audio file and copy the link to your audio file
+
+`https://www.dropbox.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3?dl=0`
+
 3. Visit this website: https://www.joelgrayson.com/dropbox-download-link-generator
 4. Paste the copied link and press **Create Download Link**
+5. The **Direct Link** generated will be similar as below
+
+`https://dl.dropboxusercontent.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3?dl=0`
 
 ![image](https://user-images.githubusercontent.com/24620178/226548192-518b2ed6-50fa-4580-afe2-8d9438e9246c.png)
 
