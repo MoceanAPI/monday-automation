@@ -125,6 +125,8 @@ For eg: the number `0123456789` will be converted to `60123456789` for the count
 ![image](https://user-images.githubusercontent.com/24620178/220265401-b54eb38e-e7cd-4531-94f6-07dc7c755b71.png)
 
 ## Voice Call
+Contact us [here](mailto:sales@moceanapi.com) to setup your account for voice call capability.
+
 ### Virtual Number
 By default, the `Number` we use to call your recipient is: `63001` which may be identified as `Spam  number` when your recipient receive the call.
 To avoid this and get better answering chance, we suggest you to buy a virtual number from us [here](https://moceanapi.github.io/monday-two-way/#buy-a-virtual-number)
