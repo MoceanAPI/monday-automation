@@ -197,7 +197,7 @@ To do so, follow these steps
 ## FAQ
 1. Can I get Test Credits ?
 
-You can get 20 FREE credits and credits are valid for 14 days. Subject to approval.
+You can get 20 FREE credits and credits are valid for 14 days. Subject to approval. Please note that once you make a top-up, the free credits will be removed.
 
 2. Can I send international messages?
 
