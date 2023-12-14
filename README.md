@@ -213,8 +213,7 @@ There is no limit on numbers to be sent in one go.
 
 5. What format does my phone number need to be in?
 
-Mobile phone numbers need to be 
-ed in international formatting with the country code and without spaces, plus signs or leading zeros.
+Mobile phone numbers need to be formatted in international formatting with the country code and without spaces, plus signs or leading zeros.
 
 **Did not find what you're looking for ?**
 
