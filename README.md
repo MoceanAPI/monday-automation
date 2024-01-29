@@ -195,25 +195,67 @@ To do so, follow these steps
 ![image](https://user-images.githubusercontent.com/24620178/200761674-1ccb6e6c-2d7b-499d-bef6-ee47a3e2a624.png)
 
 ## FAQ
-1. Can I get Test Credits ?
+1. **Can I get Test Credits ?**
 
 You can get 20 FREE credits and credits are valid for 14 days. Subject to approval. Please note that once you make a top-up, the free credits will be removed.
 
-2. Can I send international messages?
+2. **Can I send international messages?**
 
 Yes. We are an international SMS provider. You can send out SMS both locally and internationally based on our price list.
 
-3. What is the maximum characters per SMS I can put into the message?
+3. **What is the maximum characters per SMS I can put into the message?**
+   
+English messages can be up to 160 characters, while for Unicode text messages (including Arabic, Chinese, etc.), the limit is 70 characters.
 
-160 characters for a normal text message, 70 characters for a Unicode text message (Arabic, Chinese, and etc)
+5. **Can I send long message content?**
 
-4. Is there a limit to how many numbers I can send at one time?
+Yes, you can send long message content and your credit will be deducted based on the length of the message content.
+
+6. **Is there a limit to how many numbers I can send at one time?**
 
 There is no limit on numbers to be sent in one go.
 
-5. What format does my phone number need to be in?
+7. **What format does my phone number need to be in?**
 
-Mobile phone numbers need to be formatted in international formatting with the country code and without spaces, plus signs or leading zeros.
+Mobile phone numbers need to be entered in international formatting with the country code and without spaces, plus signs or leading zeros.
+
+8. **What is the character limit for the sender/sender ID?**
+
+The alpha sender ID can be a maximum of 11 characters, while the numeric sender can consist of up to 15 digits.
+
+9. **Can I utilize my personal mobile or landline number as the sender for SMS to the US?**
+
+No, it's necessary to purchase a dedicated number, such as a Toll-Free Number, and complete the use case verification process.
+
+10. **I attempted to send messages to US numbers, but they failed to be delivered. Why?**
+
+Message content that is not registered will result in a failure. To comply with US regulations, it's essential to buy a number and undergo a use case verification before you can send SMS to your customers.
+
+11. **How do I go about obtaining or purchasing a number in the US/Canada?**
+    
+a) Complete the number registration form available [here](https://docs.google.com/document/d/1I37LP5jF4fnpno9FUcvcQ0p06oGtOqhZ/edit) 
+
+b) Proceed with the payment.
+
+c) During the pending registration approval phase, a number will be provided for sending SMS on a smaller scale.
+
+d) After your registration is approved, you'll be able to send and receive SMS without volume limitations.
+
+12. **What is the expected timeframe for number approval?**
+
+The duration varies, but typically it takes approximately a month or less.
+
+13. **Why my SMS failed to deliver ?**
+
+You may have set an invalid sender id, alphanumeric sender id must be less than 12 characters, numeric sender id must be less than 16 characters. Another common issue is you did not specify the correct phone number format including country code. eg: Country code 60 for country malaysia, 60123456789
+
+14. **How to top up my account ?**
+
+Click [here](https://dashboard.moceanapi.com/topup/payment) and select your payment method of choice (Paypal and credit card)
+
+15. **Why I cannot buy a Virtual Number ?**
+
+Your account is under trial mode or has insufficient balance. Please top up before proceeding with number purchase.
 
 **Did not find what you're looking for ?**
 
