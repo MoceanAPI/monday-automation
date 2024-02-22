@@ -197,7 +197,7 @@ To do so, follow these steps
 ## FAQ
 1. **Can I get Test Credits ?**
 
-You can get 20 FREE credits and credits are valid for 14 days. Subject to approval. Please note that once you make a top-up, the free credits will be removed.
+You can get 20 FREE credits and credits. Please note that once you make a top-up, the free credits will be removed.
 
 2. **Can I send international messages?**
 
@@ -256,6 +256,10 @@ Click [here](https://dashboard.moceanapi.com/topup/payment) and select your paym
 15. **Why I cannot buy a Virtual Number ?**
 
 Your account is under trial mode or has insufficient balance. Please top up before proceeding with number purchase.
+
+16. **Why I cannot get monday.com Notifications after receiving an SMS reply ?**
+
+You will need to connect your monday.com account with us. We have a video for you to follow along to connect your monday account and MoceanAPI. https://youtu.be/P1DG6grBlQ0?si=W5NeYJnKODJP7Knk&t=60
 
 **Did not find what you're looking for ?**
 
