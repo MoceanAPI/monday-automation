@@ -207,31 +207,31 @@ Yes. We are an international SMS provider. You can send out SMS both locally and
    
 English messages can be up to 160 characters, while for Unicode text messages (including Arabic, Chinese, etc.), the limit is 70 characters.
 
-5. **Can I send long message content?**
+4. **Can I send long message content?**
 
 Yes, you can send long message content and your credit will be deducted based on the length of the message content.
 
-6. **Is there a limit to how many numbers I can send at one time?**
+5. **Is there a limit to how many numbers I can send at one time?**
 
 There is no limit on numbers to be sent in one go.
 
-7. **What format does my phone number need to be in?**
+6. **What format does my phone number need to be in?**
 
 Mobile phone numbers need to be entered in international formatting with the country code and without spaces, plus signs or leading zeros.
 
-8. **What is the character limit for the sender/sender ID?**
+7. **What is the character limit for the sender/sender ID?**
 
 The alpha sender ID can be a maximum of 11 characters, while the numeric sender can consist of up to 15 digits.
 
-9. **Can I utilize my personal mobile or landline number as the sender for SMS to the US?**
+8. **Can I utilize my personal mobile or landline number as the sender for SMS to the US?**
 
 No, it's necessary to purchase a dedicated number, such as a Toll-Free Number, and complete the use case verification process.
 
-10. **I attempted to send messages to US numbers, but they failed to be delivered. Why?**
+9. **I attempted to send messages to US numbers, but they failed to be delivered. Why?**
 
 Message content that is not registered will result in a failure. To comply with US regulations, it's essential to buy a number and undergo a use case verification before you can send SMS to your customers.
 
-11. **How do I go about obtaining or purchasing a number in the US/Canada?**
+10. **How do I go about obtaining or purchasing a number in the US/Canada?**
     
 a) Complete the number registration form available [here](https://docs.google.com/document/d/1I37LP5jF4fnpno9FUcvcQ0p06oGtOqhZ/edit) 
 
@@ -241,23 +241,23 @@ c) During the pending registration approval phase, a number will be provided for
 
 d) After your registration is approved, you'll be able to send and receive SMS without volume limitations.
 
-12. **What is the expected timeframe for number approval?**
+11. **What is the expected timeframe for number approval?**
 
 The duration varies, but typically it takes approximately a month or less.
 
-13. **Why my SMS failed to deliver ?**
+12. **Why my SMS failed to deliver ?**
 
 You may have set an invalid sender id, alphanumeric sender id must be less than 12 characters, numeric sender id must be less than 16 characters. Another common issue is you did not specify the correct phone number format including country code. eg: Country code 60 for country malaysia, 60123456789
 
-14. **How to top up my account ?**
+13. **How to top up my account ?**
 
 Click [here](https://dashboard.moceanapi.com/topup/payment) and select your payment method of choice (Paypal and credit card)
 
-15. **Why I cannot buy a Virtual Number ?**
+14. **Why I cannot buy a Virtual Number ?**
 
 Your account is under trial mode or has insufficient balance. Please top up before proceeding with number purchase.
 
-16. **Why I cannot get monday.com Notifications after receiving an SMS reply ?**
+15. **Why I cannot get monday.com Notifications after receiving an SMS reply ?**
 
 You will need to connect your monday.com account with us. We have a video for you to follow along to connect your monday account and MoceanAPI. https://youtu.be/P1DG6grBlQ0?si=W5NeYJnKODJP7Knk&t=60
 
