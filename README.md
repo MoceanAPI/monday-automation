@@ -261,6 +261,10 @@ Your account is under trial mode or has insufficient balance. Please top up befo
 
 You will need to connect your monday.com account with us. We have a video for you to follow along to connect your monday account and MoceanAPI. https://youtu.be/P1DG6grBlQ0?si=W5NeYJnKODJP7Knk&t=60
 
+16. **Do I need a Virtual Number to send 1-Way SMS?**
+
+No, you don't need a Virtual Number to send 1-Way SMS.
+
 **Did not find what you're looking for ?**
 
 Do raise a support ticket with our Support Team at [support@moceanapi.com](mailto:support@moceanapi.com).
