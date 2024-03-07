@@ -20,7 +20,7 @@
         - [Upload voice recording to Dropbox](#upload-voice-recording-to-dropbox)
         - [Upload voice recording to Github](#upload-voice-recording-to-github)
 - [Whitelist IP Address](#whitelist-ip-address)
-- [Frequently Asked Questions](#faq)
+- [Frequently Asked Questions (FAQ)](#faq)
 
 ## Features
 - Automatically send SMS when new Item is created
