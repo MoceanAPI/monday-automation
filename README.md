@@ -37,27 +37,21 @@
 1. Select the board you would like to install MoceanAPI Automation
 
 2. Click on `Integrate`
-
 ![image](https://user-images.githubusercontent.com/24620178/153557889-12aac289-64c2-4ddc-b265-e3838e9703c9.png)
 
 3. Click on `Integrations Center` and Search for `Mocean` in the search bar and install `MoceanAPI - Automation`
-
 ![image](https://user-images.githubusercontent.com/24620178/153558065-f8f9f4bc-ad8f-45db-9f43-91dabfde2a96.png)
 
 4. Choose the automation that fits your needs and click `Add to board`
-
 ![image](https://user-images.githubusercontent.com/24620178/153558167-20baab8b-1d81-4fb3-8961-f0d4198a60ca.png)
 
 5. Enter your Mocean API Credentials and the sender
-
 ![image](https://user-images.githubusercontent.com/24620178/203029859-d9273a25-20c2-47b9-8724-7739d51bb407.png)
 
 6. After you've successfully authenticated, you will be redirected back to `Monday.com` to customize your `Automation Recipe`
-
 ![image](https://user-images.githubusercontent.com/24620178/153558546-4ea76118-41c5-496e-a02a-89736fc285b6.png)
 
 7. After customizing your `Automation Recipe`, click on `Add to board` at bottom right
-
 8. When the automation is triggered, the SMS log will be displayed in the `MoceanAPI - Item App` if you installed.
 
 ![image](https://user-images.githubusercontent.com/24620178/153558811-685771d1-bc23-4ba7-bf78-4301173af29a.png)
@@ -72,11 +66,9 @@
 If you'd like to disable receiving notifications and updates in monday.com whenever an automated SMS is triggered, you can configure it in the **Update API Credentials Page**
 
 1. First navigate to `MoceanAPI - Send SMS app` or `MoceanAPI - SMS Broadcast app`.
-
 ![image](https://user-images.githubusercontent.com/24620178/223055251-72aa588b-eac3-4b85-9a1d-e792a55fb1d4.png)
 
 2. Then click on the `Update API Credentials Link`. You can then configure whether you'd like to receive notifications in monday.com for every `automated` SMS sent
-
 ![image](https://user-images.githubusercontent.com/24620178/203029535-98bc5e6d-572e-4ed5-8f45-66d5a2796989.png)
 
 ## Custom Date Time format
@@ -148,15 +140,12 @@ Below, we will show you steps for 2 platform (Dropbox, Github) which you can upl
 
 1. Create an account in [Dropbox](https://dropbox.com)
 2. Upload your audio file and copy the link to your audio file
-
 ![image](https://user-images.githubusercontent.com/24620178/226578247-ad06eaf2-6862-4bb5-b3ff-1473db3be5f2.png)
 
 3. Copy the parameter highlighted above from the uploaded URL and add it to the end of dl.dropboxusercontent.com, as demonstrated in the highlighted section below. 
-
 ![image](https://user-images.githubusercontent.com/24620178/226579167-287309fe-c4a3-457e-9aba-5ae3988cae7a.png)
 
 So the final URL you should paste in the **Recording Link** in your automation recipe is: https://dl.dropboxusercontent.com/s/mpx3yi0cbrgsxeq/welcome%20to%20moceanapi.mp3
-
 ![image](https://user-images.githubusercontent.com/24620178/226548308-c2e3a125-0474-402b-97aa-ca1442ddc564.png)
 
 #### Upload voice recording to Github
@@ -169,17 +158,12 @@ So the final URL you should paste in the **Recording Link** in your automation r
 3. Give your repository a name. Eg: **Audio Files**
 4. Scroll to the bottom and click on **Create Repository**
 5. Upload your audio file
-
 ![image](https://user-images.githubusercontent.com/24620178/226539637-43710efb-d98b-4ccc-ac4b-d2ee060ad9d3.png)
-
 6. Click on **Commit Changes**
 7. Click on the newly uploaded file
-
 ![image](https://user-images.githubusercontent.com/24620178/226539871-a5d3dc63-accc-48b5-a6ab-ffff722ef0fe.png)
-
 8. Right click on **View Raw** and copy the link
 9. Paste the link in **Recording Link** in your automation recipe 
-
 ![image](https://user-images.githubusercontent.com/24620178/226540088-efea09cb-f5ae-45be-9f54-90028ce482ef.png)
 
 ## Whitelist IP Address
