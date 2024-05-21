@@ -179,43 +179,41 @@ To do so, follow these steps
 ![image](https://user-images.githubusercontent.com/24620178/200761674-1ccb6e6c-2d7b-499d-bef6-ee47a3e2a624.png)
 
 ## FAQ
-1. **Can I get Test Credits ?** 
-
-You can get 20 FREE credits. Please note that once you make a top-up, the free credits will be removed.
+1. **Can I get Test Credits ?**
+- You can get 20 FREE credits. Please note that once you make a top-up, the free credits will be removed.
 
 2. **What means by 20 credits, 1 credit = EUR 1?**
-
-No, during the trial period, 1 credit equals 1 SMS. So, with 20 credits, you can test 20 SMS.
+- No, during the trial period, 1 credit equals 1 SMS. So, with 20 credits, you can test 20 SMS.
 
 3. **Can I request more trial credits?**
-Yes, of course! If you&#39;d like to test further, feel free to request from us.
+- Yes, of course! If you&#39;d like to test further, feel free to request from us.
 
 4. **Can I send international messages?**
-Yes. We are an international SMS provider. You can send out SMS both locally and internationally.
+- Yes. We are an international SMS provider. You can send out SMS both locally and internationally.
 The price for each country varies, do check out our pricing list here (link to
 https://moceanapi.com/pricing)
 
 5. **What is the maximum characters per SMS I can put into the message?**
-English messages can be up to 160 characters, while for Unicode text messages (including Arabic,
+- English messages can be up to 160 characters, while for Unicode text messages (including Arabic,
 Chinese, etc.), the limit is 70 characters.
 
 6. **Do you support long message content?**
-Yes, you can send long message content and your credit will be deducted based on the length of the message content.
+- Yes, you can send long message content and your credit will be deducted based on the length of the message content.
 
 7. **Is there a limit to how many numbers I can send at one time?**
-There is no limit on numbers to be sent in one go.
+- There is no limit on numbers to be sent in one go.
 
 8. **What format does my phone number need to be in?**
-Mobile phone numbers need to be entered in international formatting with the country code and without spaces, plus signs or leading zeros. Example: Country code 60 for country Malaysia, 60123456789
+- Mobile phone numbers need to be entered in international formatting with the country code and without spaces, plus signs or leading zeros. Example: Country code 60 for country Malaysia, 60123456789
 
 9. **What is the character limit for the sender/sender ID?**
-The alpha sender ID can be a maximum of 11 characters, while the numeric sender can consist of up to 15 digits.
+- The alpha sender ID can be a maximum of 11 characters, while the numeric sender can consist of up to 15 digits.
 
 10. **I attempted to send messages to US numbers, but they failed to be delivered. Why?**
-Message content that is not registered will result in a failure. To comply with US regulations, it’s essential to buy a number and undergo a use case verification before you can send SMS to your customers.
+- Message content that is not registered will result in a failure. To comply with US regulations, it’s essential to buy a number and undergo a use case verification before you can send SMS to your customers.
 
 11. **Can I utilize my personal mobile or landline number as the sender for SMS to the US?**
-No, it’s necessary to purchase a dedicated number, such as a Toll-Free Number, and complete the use case verification process.
+- No, it’s necessary to purchase a dedicated number, such as a Toll-Free Number, and complete the use case verification process.
 
 12. **How do I go about obtaining or purchasing a Toll Free Number in the US/Canada?**
 1) Complete the number registration form available [here](https://docs.google.com/document/d/1I37LP5jF4fnpno9FUcvcQ0p06oGtOqhZ/edit) 
@@ -223,16 +221,16 @@ No, it’s necessary to purchase a dedicated number, such as a Toll-Free Number,
 3) After your registration is accepted and approved, you’ll be able to send and receive SMS using your Toll Free Number.
 
 13. **What is the expected timeframe for number approval?**
-Yes, it is possible. We would need a LoA (Letter of Agency) signed to allow us to take over the SMS part of the number.
+- Yes, it is possible. We would need a LoA (Letter of Agency) signed to allow us to take over the SMS part of the number.
 
 14. **I am currently having a TFN / 10DLC from another provider. I want to use the same number in your platform. Is that possible?**
-Yes, it is possible. We would need a LoA (Letter of Agency) signed to allow us to take over the SMS part of the number.
+- Yes, it is possible. We would need a LoA (Letter of Agency) signed to allow us to take over the SMS part of the number.
 
 15. **Why my SMS failed to deliver?**
-You may have set an invalid sender ID, alphanumeric sender ID must be less than 12 characters, and numeric sender ID must be less than 16 characters. Another common issue is you did not specify the correct phone number format including country code. Example: Country code 60 for country Malaysia, 60123456789
+- You may have set an invalid sender ID, alphanumeric sender ID must be less than 12 characters, and numeric sender ID must be less than 16 characters. Another common issue is you did not specify the correct phone number format including country code. Example: Country code 60 for country Malaysia, 60123456789
 
 16. **I want to purchase SMS credits, how to top up my account?**
-Easy &amp; fast, just follow a few steps below:
+- Easy &amp; fast, just follow a few steps below:
 1) Login to your account at [https://dashboard.moceanapi.com/login](https://dashboard.moceanapi.com/login) 
 2) Go to Top Up page on left menu
 3) Select Payment
@@ -240,13 +238,13 @@ Easy &amp; fast, just follow a few steps below:
 Your account will be credited instantly and enjoy texting!
 
 17. **Why I cannot buy a Virtual Number?**
-This is due to your account is under trial mode or has insufficient balance. Please top up before proceeding with number purchase.
+- This is due to your account is under trial mode or has insufficient balance. Please top up before proceeding with number purchase.
 
 18. **Why I cannot get monday.com Notifications after receiving an SMS reply?**
-You will need to connect your Monday.com account with us. We have a video for you to follow along to connect your Monday.com account and MoceanAPI. Check it out [here](https://www.youtube.com/watch?v=P1DG6grBlQ0)
+- You will need to connect your Monday.com account with us. We have a video for you to follow along to connect your Monday.com account and MoceanAPI. Check it out [here](https://www.youtube.com/watch?v=P1DG6grBlQ0)
 
 19. **Do I need a Virtual Number to send 1-Way SMS?**
-No, you don’t need a Virtual Number to send 1-Way SMS, unless you are sending SMS to recipients in the US &amp; Canada.
+- No, you don’t need a Virtual Number to send 1-Way SMS, unless you are sending SMS to recipients in the US &amp; Canada.
 
 **Did not find what you're looking for ?**
 
