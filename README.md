@@ -179,10 +179,12 @@ To do so, follow these steps
 ![image](https://user-images.githubusercontent.com/24620178/200761674-1ccb6e6c-2d7b-499d-bef6-ee47a3e2a624.png)
 
 ## FAQ
-1. **Can I get Test Credits ?**
+1. **Can I get Test Credits ?** 
+
 You can get 20 FREE credits. Please note that once you make a top-up, the free credits will be removed.
 
 2. **What means by 20 credits, 1 credit = EUR 1?**
+
 No, during the trial period, 1 credit equals 1 SMS. So, with 20 credits, you can test 20 SMS.
 
 3. **Can I request more trial credits?**
