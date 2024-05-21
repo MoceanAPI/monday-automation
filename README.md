@@ -216,7 +216,8 @@ Chinese, etc.), the limit is 70 characters.
 - No, it’s necessary to purchase a dedicated number, such as a Toll-Free Number, and complete the use case verification process.
 
 12. **How do I go about obtaining or purchasing a Toll Free Number in the US/Canada?**
-1) Complete the number registration form available [here](https://docs.google.com/document/d/1I37LP5jF4fnpno9FUcvcQ0p06oGtOqhZ/edit) 
+- Steps:
+1) Complete the number registration form available [here](https://docs.google.com/document/d/1b-VJCcCGcNgHXgm2dmelWW6m0vsN6Kfg/edit) 
 2) Proceed with the payment.
 3) After your registration is accepted and approved, you’ll be able to send and receive SMS using your Toll Free Number.
 
