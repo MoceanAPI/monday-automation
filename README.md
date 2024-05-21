@@ -232,9 +232,9 @@ Message content that is not registered will result in a failure. To comply with 
 No, it’s necessary to purchase a dedicated number, such as a Toll-Free Number, and complete the use case verification process.
 
 12. **How do I go about obtaining or purchasing a Toll Free Number in the US/Canada?**
-a) Complete the number registration form available [here](https://docs.google.com/document/d/1I37LP5jF4fnpno9FUcvcQ0p06oGtOqhZ/edit) 
-b) Proceed with the payment.
-c) After your registration is accepted and approved, you’ll be able to send and receive SMS using your Toll Free Number.
+1) Complete the number registration form available [here](https://docs.google.com/document/d/1I37LP5jF4fnpno9FUcvcQ0p06oGtOqhZ/edit) 
+2) Proceed with the payment.
+3) After your registration is accepted and approved, you’ll be able to send and receive SMS using your Toll Free Number.
 
 13. **What is the expected timeframe for number approval?**
 Yes, it is possible. We would need a LoA (Letter of Agency) signed to allow us to take over the SMS part of the number.
@@ -247,10 +247,10 @@ You may have set an invalid sender ID, alphanumeric sender ID must be less than 
 
 16. **I want to purchase SMS credits, how to top up my account?**
 Easy &amp; fast, just follow a few steps below:
-a) Login to your account at [https://dashboard.moceanapi.com/login](https://dashboard.moceanapi.com/login) 
-b) Go to Top Up page on left menu
-c) Select Payment
-d) Pay with credit card / PayPal
+1) Login to your account at [https://dashboard.moceanapi.com/login](https://dashboard.moceanapi.com/login) 
+2) Go to Top Up page on left menu
+3) Select Payment
+4) Pay with credit card / PayPal
 Your account will be credited instantly and enjoy texting!
 
 17. **Why I cannot buy a Virtual Number?**
