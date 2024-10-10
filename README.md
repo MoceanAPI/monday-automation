@@ -229,7 +229,10 @@ Chinese, etc.), the limit is 70 characters.
 15. **Why my SMS failed to deliver?**
 - You may have set an invalid sender ID, alphanumeric sender ID must be less than 12 characters, and numeric sender ID must be less than 16 characters. Another common issue is you did not specify the correct phone number format including country code. Example: Country code 60 for country Malaysia, 60123456789
 
-16. **I want to purchase SMS credits, how to top up my account?**
+16. **I would like to send my content to the US and Canada, but it has been changed to 'Customer ABC just booked an appointment'. May I know why?**
+ - This occurs because, during the trial period, your content is automatically replaced with that message. To comply with regulations, you will need to purchase a number and verify your use case in order to send your own content. You can download the necessary form [here](https://docs.google.com/document/d/1b-VJCcCGcNgHXgm2dmelWW6m0vsN6Kfg/edit), and we’ll assist you in obtaining a Toll-Free number. Once you have it, you’ll be able to send your content freely.
+
+17. **I want to purchase SMS credits, how to top up my account?**
 - Easy &amp; fast, just follow a few steps below:
 1) Login to your account at [https://dashboard.moceanapi.com/login](https://dashboard.moceanapi.com/login) 
 2) Go to Top Up page on left menu
@@ -237,24 +240,24 @@ Chinese, etc.), the limit is 70 characters.
 4) Pay with credit card / PayPal
 Your account will be credited instantly and enjoy texting!
 
-17. **Why I cannot buy a Virtual Number?**
+18. **Why I cannot buy a Virtual Number?**
 - This is due to your account is under trial mode or has insufficient balance. Please top up before proceeding with number purchase.
 
-18. **Why I cannot get monday.com Notifications after receiving an SMS reply?**
+19. **Why I cannot get monday.com Notifications after receiving an SMS reply?**
 - You will need to connect your Monday.com account with us. We have a video for you to follow along to connect your Monday.com account and MoceanAPI. Check it out [here](https://www.youtube.com/watch?v=P1DG6grBlQ0)
 
-19. **Do I need a Virtual Number to send 1-Way SMS?**
+20. **Do I need a Virtual Number to send 1-Way SMS?**
 - No, you don’t need a Virtual Number to send 1-Way SMS, unless you are sending SMS to recipients in the US &amp; Canada.
 
-20. **Can I send SMS with shortener URL to United States (US)?**
+21. **Can I send SMS with shortener URL to United States (US)?**
 - Public URL shorteners, such as bit.ly and TinyURL, are not allowed.
 Please check [here](https://moceanapi.com/question/62) for more info. 
 
-21. **What is forbidden message categories for SMS in the US/Canada?**
+22. **What is forbidden message categories for SMS in the US/Canada?**
 - The messaging use cases described [here](https://moceanapi.com/question/63) are strictly prohibited.
 Even if your specific use case isn't explicitly listed as prohibited, certain types of message content may still face restrictions. For example, using shared or free public URL shorteners is not allowed and could result in filtering. Please make sure that any shortened URLs you use are company-branded.
 
-22. **US Toll Free Number (TFN) SMS delivery features**
+23. **US Toll Free Number (TFN) SMS delivery features**
 
 | Section| TOLL FREE|
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
