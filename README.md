@@ -223,8 +223,8 @@ Chinese, etc.), the limit is 70 characters.
 13. **What is the expected timeframe for number approval?**
 - The duration varies, but typically it takes approximately 2-3 weeks.
 
-14. **I am currently having a TFN / 10DLC from another provider. I want to use the same number in your platform. Is that possible?**
-- Yes, it is possible. We would need a LoA (Letter of Agency) signed to allow us to take over the SMS part of the number.
+14. **I am currently having an US / Canada TFN / 10DLC from another provider. I want to use the same number on your platform. Is that possible?**
+- Yes, it is possible. We would need a LoA (Letter of Agency) signed to allow us to take over the SMS part of the number. Please [contact us](mailto:support@moceanapi.com?cc=sookchin@moceansms.com) for further assistance.
 
 15. **Why my SMS failed to deliver?**
 - You may have set an invalid sender ID, alphanumeric sender ID must be less than 12 characters, and numeric sender ID must be less than 16 characters. Another common issue is you did not specify the correct phone number format including country code. Example: Country code 60 for country Malaysia, 60123456789
