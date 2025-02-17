@@ -257,7 +257,10 @@ Please check [here](https://moceanapi.com/question/62) for more info.
 - The messaging use cases described [here](https://moceanapi.com/question/63) are strictly prohibited.
 Even if your specific use case isn't explicitly listed as prohibited, certain types of message content may still face restrictions. For example, using shared or free public URL shorteners is not allowed and could result in filtering. Please make sure that any shortened URLs you use are company-branded.
 
-23. **US Toll Free Number (TFN) SMS delivery features**
+23. **Can I use the same WhatsApp number on Monday.com and my WhatsApp mobile app to send messages to my customers?**
+- No. Once a phone number is registered on the WhatsApp Business Platform for use with Monday.com, it can no longer be used on the WhatsApp mobile app.
+
+24. **US Toll Free Number (TFN) SMS delivery features**
 
 | Section| TOLL FREE|
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
