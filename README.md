@@ -132,9 +132,28 @@ If you've decided to send a **Voice Recording** instead of a **Text To Speech**,
 
 For the `Recording Link` input, you will need to supply a `Direct Link` to  the recording like below.
 
-![image](https://user-images.githubusercontent.com/24620178/226282397-4126e678-a1f1-4a66-9339-478e0640a458.png)
+![image](https://github.com/user-attachments/assets/1f243317-7733-473a-a10f-814021e00d97)
 
-Below, we will show you steps for 2 platform (Dropbox, Github) which you can upload your voice recording for free.
+Below, we will show you steps for 3 platform (Google Drive, Dropbox, Github) which you can upload your voice recording for free.
+
+#### Upload voice recording to Google Drive
+
+1. Create a Google Account (https://accounts.google.com/)
+2. Go to google drive & upload your audio file (https://drive.google.com/)
+3. Open the uploaded file and click "Share" button.
+4. In "General access", choose Anyone with the link. Then click "Copy link".
+    ![image](https://github.com/user-attachments/assets/8827761f-7200-4561-a237-438e3d47d146)
+
+5. Copy the id from the link E.g https://drive.google.com/file/d/1cccR_oCR0_fPntZNl0LUzzi0GwbrB5H6/view?usp=sharing
+    ![image](https://github.com/user-attachments/assets/6558eabf-176e-4831-bea0-1cc82478f904)
+
+6. Copy the parameter highlighted above from the uploaded URL and add it to the end of https://drive.google.com/uc?export=download&id=, as demonstrated in the highlighted section below.
+    ![image](https://github.com/user-attachments/assets/aac74f26-3aa8-412b-9297-44f04cbb3535)
+
+So the final URL you should paste in the **Recording Link** in your automation recipe is: 
+https://drive.google.com/uc?export=download&id=1cccR_oCR0_fPntZNl0LUzzi0GwbrB5H6       
+![image](https://github.com/user-attachments/assets/1f243317-7733-473a-a10f-814021e00d97)
+
 
 #### Upload voice recording to Dropbox
 
