@@ -278,8 +278,11 @@ Even if your specific use case isn't explicitly listed as prohibited, certain ty
 
 23. **Can I use the same WhatsApp number on Monday.com and my WhatsApp mobile app to send messages to my customers?**
 - No. Once a phone number is registered on the WhatsApp Business Platform for use with Monday.com, it can no longer be used on the WhatsApp mobile app.
+  
+24. **Can I use automation to send reminders?**
+- Yes, our app can integrate with Google Calendar to send reminders automatically via automation. Please refer to the provided guide [here](https://github.com/MoceanAPI/monday-dashboard/blob/main/Monday%20integration%20with%20google%20calendar.pdf) for more details.
 
-24. **US Toll Free Number (TFN) SMS delivery features**
+25. **US Toll Free Number (TFN) SMS delivery features**
 
 | Section| TOLL FREE|
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
