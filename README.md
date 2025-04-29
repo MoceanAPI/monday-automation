@@ -285,7 +285,10 @@ Even if your specific use case isn't explicitly listed as prohibited, certain ty
 25. **Can I use automation to send reminders?**
 - Yes, our app can integrate with Google Calendar to send reminders automatically via automation. Please refer to the provided guide [here](https://github.com/MoceanAPI/monday-dashboard/blob/main/Monday%20integration%20with%20google%20calendar.pdf) for more details.
 
-26. **US Toll Free Number (TFN) SMS delivery features**
+26. **I use more than one workspace, do I have to install your app on all of them?**
+- Yep! You'll need to install the app on each workspace individually.
+
+27. **US Toll Free Number (TFN) SMS delivery features**
 
 | Section| TOLL FREE|
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
